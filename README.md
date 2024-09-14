@@ -14,6 +14,6 @@ I am Sibaprsad Swain, a dedicated Fullstack Developer with expertise in building
 ## Get in touch :coffee:
 
 - [instagram](https://www.instagram.com/siba.prsad.swain/)
-- [Twitter](https://twitter.com/viradiya_sagar)
+- [Twitter](https://twitter.com/sibaprsad_swain)
 - [Email](sibaprsadswain@yahoo.com)
 - [LinkedIn](https://in.linkedin.com/in/sibaprasad-swain-398a49262)
