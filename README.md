@@ -10,7 +10,7 @@
 ## About me
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **sibaprsadswain@yahoo.com**
+- 📫 How to reach me **sibaprasaddswain@gmail.com**
 
 - 📝Resume [https://drive.google.com/file/d/1ClZJ0-DCrT5AeLiFjD1JWL0Aiui2kkjI/view?usp=drivesdk](https://drive.google.com/file/d/1ClZJ0-DCrT5AeLiFjD1JWL0Aiui2kkjI/view?usp=drivesdk)
 
